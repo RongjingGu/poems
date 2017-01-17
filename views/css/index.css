@@ -39,6 +39,8 @@ head, body {
 
 .home_module_1 {
     background: #dddddd;
+    cursor: pointer;
+    font-family : 微软雅黑,宋体;
 }
 
 li {
