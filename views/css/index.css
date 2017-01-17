@@ -1,0 +1,51 @@
+.home_module {
+    font-size: 18px;
+
+}
+
+head, body {
+    background: #eeeeee;
+    font-family: Georgia;
+    display: block;
+    font-size: 20px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.editor_info {
+    font-size: 11px;
+    text-indent: 15px;
+}
+
+#poems {
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#poems_1 {
+    width: 300px;
+    float: left
+}
+
+#poems_2 {
+    width: 300px;
+    float: left
+}
+
+.home_module_1 {
+    background: #dddddd;
+}
+
+li {
+    list-style: none;
+    margin: 25px 0;
+}
+
+#poems_title_1 {
+    text-align: center;
+}
